@@ -1,6 +1,6 @@
-# Kin DApp SDK-less Demo
+# Kin SDK-less DApp Demo
 
-The Kin DApp SDK-less Demo is a lightweight starter app based on the [Solana DApp Scaffold](https://github.com/solana-labs/dapp-scaffold) that will get you up and running with [SDK-less Kin](https://developer.kin.org/tutorials/SDK-less/) as quickly as possible.
+The Kin SDK-less DApp Demo is a lightweight starter app based on the [Solana DApp Scaffold](https://github.com/solana-labs/dapp-scaffold) that will get you up and running with [SDK-less Kin](https://developer.kin.org/tutorials/SDK-less/) as quickly as possible.
 
 ## Getting Started
 
