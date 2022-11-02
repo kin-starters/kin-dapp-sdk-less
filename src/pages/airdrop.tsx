@@ -7,7 +7,7 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>Airdrop</title>
-        <meta name="description" content="Kin DApp Demo" />
+        <meta name="description" content="Kin SDK-less DApp Demo" />
       </Head>
       <AirdropView />
     </div>

@@ -6,7 +6,7 @@ const SendKin: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Kin DApp Demo</title>
+        <title>Kin SDK-less DApp Demo</title>
         <meta name="description" content="Basic Functionality" />
       </Head>
       <SendKinView />

@@ -14,7 +14,7 @@ const App: FC<AppProps> = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
-        <title>Kin DApp Demo</title>
+        <title>Kin SDK-less DApp Demo</title>
       </Head>
 
       <ContextProvider>
